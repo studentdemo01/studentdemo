@@ -1,4 +1,4 @@
 # studentdemo
 This is my first Git Respository.
 <br>
-Author - Varun Chauhan
+Author - Varun Thakur
